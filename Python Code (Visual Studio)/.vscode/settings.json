@@ -1,0 +1,21 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "MyFirstSqlConnection",
+            "database": "myshop",
+            "username": "admin",
+            "password": ""
+        }
+    ],
+    "java.project.sourcePaths": [
+        "CSE321_Threading",
+        "LAB 3"
+    ]
+}
